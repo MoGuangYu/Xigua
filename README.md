@@ -14,4 +14,4 @@
 ### 如何添加自己的节点并配置使用
 ------
 首先[下载一个代理程序](https://user.xgssr.com/ssr-download/ssrr-android.apk)这是`安卓`的，其他`代理平台`请[详情](https://user.xgssr.com/user)用户后台面版`教程`。开始配置，下载安装以后，在自己的后台管理下，下滑找到自己的`订阅地址`然后点`复制`这个地址，然后打开刚刚手机安装的`SSRR`程序打开，点击`左上角`，你会发现里面有一个`节点列表`，左/右滑`删除`这个软件自带的没用节点，然后点击`右下角`的加号`图标`，选择第一个`选项`，然后再左/右滑动删除这个软件自带的没用地址，然后添加自己刚刚的订阅地址，确定，然后你那里就出现了一条新的，然后下一步选择确认并升级，<br>
-![Alt text](https://github.com/MoGuangYu/Xigua/blob/master/Picture/DivZe40P.png)
+![Alt text](https://github.com/MoGuangYu/Xigua/raw/master/Picture/DivZe40P.png)
