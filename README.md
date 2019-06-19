@@ -5,7 +5,7 @@
 加入我们<br>
 [QQ Group](https://jq.qq.com/?_wv=1027&k=5QZ40Zt)  [Telegram](https://t.me/ixgssr)<br>
 官网<br>
-[官方网站](https://xgssr.com/)  [后台管理](https://user.xgssr.com/auth/login)<br>
+[官方网站](http://origin.xgssr.com/)  [后台管理](https://user.xgssr.com/auth/login)<br>
 其他<br>
 [卥瓜后台管理程序App](https://github.com/MoGuangYu/Xigua/releases)
 # 我应该要怎么使用?
